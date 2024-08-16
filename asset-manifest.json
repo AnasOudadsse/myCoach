@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myCoach/static/css/main.733e0ccc.css",
-    "main.js": "/myCoach/static/js/main.bcb289c3.js",
+    "main.js": "/myCoach/static/js/main.d0d65145.js",
     "static/media/woman-doing-workout-gym-with-trainer.jpg": "/myCoach/static/media/woman-doing-workout-gym-with-trainer.de7abfebb46dbf3af1c8.jpg",
     "static/media/slick.svg": "/myCoach/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/myCoach/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -9,10 +9,10 @@
     "static/media/slick.woff": "/myCoach/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/myCoach/index.html",
     "main.733e0ccc.css.map": "/myCoach/static/css/main.733e0ccc.css.map",
-    "main.bcb289c3.js.map": "/myCoach/static/js/main.bcb289c3.js.map"
+    "main.d0d65145.js.map": "/myCoach/static/js/main.d0d65145.js.map"
   },
   "entrypoints": [
     "static/css/main.733e0ccc.css",
-    "static/js/main.bcb289c3.js"
+    "static/js/main.d0d65145.js"
   ]
 }
